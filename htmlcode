@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-sacle=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="2.css">
+</head>
+<body>
+    <div class="bus">
+        <h1 class="bdt">Bussiness Development</h1>
+        <p class="text">Have an idea or inquiry for Waze business development?</p>
+        <button class="but">Share your ideas</button>
+    </div>
+
+    <!--<div class="prof border2">
+            <h2>Your profiles</h2>
+            <h5 class="text1">See how your different profiles appear in Google services</h5>
+            <img src="C:\Users\akhil\Pictures\image1.jpg" class="box-model-img" alt=""/>
+   </div>
+
+    <div class="prof border1">
+        <h5 class="see">See profiles</h5>
+    </div>-->
+    <!--- <div class="sub">
+        <img src="C:\Users\akhil\Downloads\image2.avif" class="box-img" alt="">
+        <div class="lock"></div>
+        <p class="plan">SUBSCRIBE TO ANY PLAN</p>
+        <p class="feature">Get more features in Google Photos</p>
+        <p class="para">Bring your favorite moments to life with more Google Photos editing tools for Android and iOS, including Magic Eraser.<br>Subject to eligibility. </p>
+            <button class="button">View details</button> 
+    </div>-->
+    <!--<div class="desk">
+        <h1 class="flod">Flodesk</h1>
+        <h1 class="wel">Welcome back!</h1>
+        <input class="input" type="text" placeholder="Enter your email"><br>
+        <input class="input pass" type="text" placeholder="Enter your password"><br>
+        <button class="log">Log in to Flodesk</button>
+        <p class="para1">Not a member? <a class="link" href="signin">Sign up</a></p>
+        <a class="link" href="password">Forgot your password?</a>
+        <p class="para2">By continuing, you agree to Flodesk's <a class="link1"  href="terms">terms</a><br>and acknowledge you've read our <a class="link1" href="privacy">privacy policy</a></p>
+
+
+    </div>-->
+    
+</body>
+</html>
